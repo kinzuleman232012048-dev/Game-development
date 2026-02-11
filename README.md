@@ -12,7 +12,7 @@ A fast-paced arcade-style game where the player collects as many coins as possib
 - Time-limited coin collection  
 - Score system  
 - Simple player movement  
-- Increasing challenge (optional: add obstacles or levels)  
+- Increasing challenge )  
 
 ## 🕹️ Controls
 - Move: Arrow Keys / WASD  
@@ -20,5 +20,5 @@ A fast-paced arcade-style game where the player collects as many coins as possib
 - Timer starts when the game begins  
 
 ## 🛠️ Built With
-- Game Engine: (Unity / Godot / Pygame / Web – update this)
-- Language: (C# / GDScript / Python / JavaScript – update this)
+- Game Engine: (Unity / Godot / Pygame )
+- Language: (C# / GDScript / Python )
